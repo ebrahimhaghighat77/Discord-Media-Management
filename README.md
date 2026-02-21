@@ -1,4 +1,4 @@
-# Discord-Media-Management
+# Discord-Media-Management 
 
 This Discord bot is designed to manage and repost media from one channel to another.
 
