@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "server_id": "YOUR_SERVER_ID_HERE",
+  "source_channel_id": "YOUR_SOURCE_CHANNEL_ID_HERE",
+  "target_channel_id": "YOUR_TARGET_CHANNEL_ID_HERE",
+  "role_id": "YOUR_ROLE_ID_HERE",
+  "reactions": ["👍", "❤️", "🔥"]
+}
